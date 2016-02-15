@@ -1,0 +1,29 @@
+
+{
+  "name": "web-optimization",
+  "version": "1.0.0",
+  "description": "Project 4 for Udacity front end developer nanodegree. Optimize index file to have page speeds of 90 or more",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+  
+  },
+  "author": "Shihan Shen",
+  "license": "ISC",
+  "bugs": {
+    
+  },
+
+  "devDependencies": {
+    "concat": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-useref": "^3.0.2"
+  }
+}
